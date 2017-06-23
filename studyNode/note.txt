@@ -10,7 +10,12 @@ Q2:	events.js not output what i want;
 
 A2:
 
+Q3: events2.js not output what i want;
+	the sourceLink is 
+	
+	http://www.runoob.com/nodejs/nodejs-event.html
 
+A3:
 
 	
 	
