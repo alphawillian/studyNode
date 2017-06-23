@@ -1,0 +1,13 @@
+Q1:
+	$ npm -v  output 5.0.3   but $ npm list -g   not output what i want;   
+	the sourceLink is 
+	
+	http://www.runoob.com/nodejs/nodejs-npm.html
+A1:
+
+
+Q2:	
+
+	
+	
+	
