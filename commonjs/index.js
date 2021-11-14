@@ -13,7 +13,7 @@ process.stdin.on('data', e => {
     count++
   }
   if (count === 3) {
-    console.log('你太厉害了，我不玩了')
+    console.log('你太厉害了，我不玩了!')
     process.exit()
   }
 })
